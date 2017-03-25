@@ -1,4 +1,4 @@
-var row_1 = "";							// definiujemy zmienna tekstową która będzie naszym pierwszym wierszem szachownicy
+var row_1 = "";							// definiujemy zmienną tekstową która będzie naszym pierwszym wierszem szachownicy
 var row_2 = "";							// definiujemy zmienna tekstową która będzie naszym drugim wierszem szachownicy
 var chessboard = "";				// definiujemy zmienną tekstową której wartośc będzie wyglądać jak szachownica
 
