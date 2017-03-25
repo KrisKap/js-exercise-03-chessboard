@@ -10,7 +10,7 @@ for (i = 0; i < 30; i++) {	// budujeny wiersze szachownicy ze znaków "#" oraz "
 	}
 	else {
 		row_1 += " ";		// znaki w wierszu pierwszym występujące na 0, 2, 2... miejscu to " "
-		row_2 += "#";		// znaki w wierszu drugim występujące na 0, 2, 4... miejscu to "#"
+		row_2 += "#";		// znaki w wierszu drugim występujące na 0, 2, 4... miejscu to "#".
 	}
 
 }
