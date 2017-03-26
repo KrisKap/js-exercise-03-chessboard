@@ -14,7 +14,7 @@ for (i = 0; i < 30; i++) {  // budujeny wiersze szachownicy ze znaków "#" oraz 
   }
 
 for (i = 0; i < 30; i++) {      // tworzymy szachownicę przez naprzemienną konkatenację row_1 oraz row_2 
-  if (!(i % 2)) {	              // wraz ze znakiem nowego wiersza.
+  if (!(i % 2)) {               // wraz ze znakiem nowego wiersza.
     chessboard += row_1 + "\n"; 
   }
 
