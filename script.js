@@ -1,4 +1,4 @@
-var row_1 = "";             // definiujemy zmienna tekstową która będzie naszym pierwszym wierszem szachownicy
+var row_1 = "";             // definiujemy zmienną tekstową która będzie naszym pierwszym wierszem szachownicy
 var row_2 = "";             // definiujemy zmienna tekstową która będzie naszym drugim wierszem szachownicy
 var chessboard = "";        // definiujemy zmienną tekstową której wartośc będzie wyglądać jak szachownica
 
@@ -14,6 +14,7 @@ for (i = 0; i < 30; i++) {  // budujeny wiersze szachownicy ze znaków "#" oraz 
   }
 
 }
+
 
 for (i = 0; i < 30; i++) {      // tworzymy szachownicę przez naprzemienną konkatenację row_1 oraz row_2 
   if (!(i % 2)) {               // wraz ze znakiem nowego wiersza.
